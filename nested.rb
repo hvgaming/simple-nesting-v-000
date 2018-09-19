@@ -55,7 +55,7 @@ def changing_alan
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-         :alans_new_info => "GUI" 
+         :alans_new_info => "GUI",
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
